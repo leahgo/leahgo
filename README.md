@@ -12,8 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<span text-align=center>
+<h1>💻&nbsp;Tech Stacks&nbsp;💻</h1>
 
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/C %E2%99%AF-239120?logo=Csharp&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"/>&nbsp;
+</span>

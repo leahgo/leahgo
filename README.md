@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>&nbsp;

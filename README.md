@@ -12,13 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<span text-align=center>
-<h1>💻&nbsp;Tech Stacks&nbsp;💻</h1>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/C %E2%99%AF-239120?logo=Csharp&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"/>&nbsp;
-</span>
+<div style="text-align:center">
+  <span>
+<h1>👩🏼‍💻&nbsp;Mainly Using...</h1>
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?logo=C%23&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
+<br/>  
+<h1>👩🏼‍💻&nbsp;Techs I've used at least once...</h1>
+<img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
+  </span>
+</div>

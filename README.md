@@ -28,9 +28,9 @@ Here are some ideas to get you started:
     <h1>🛠&nbsp;Techs I've used at least once...</h1>
     <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
     <h1>📚&nbsp;Tech Blog</h1>
-    <a href="https://velog.io/@theleah"><img src="https://img.shields.io/badge/Velog@theleah-11B48A?logo=MySQL&logoColor=white"/></a>
+    <a href="https://velog.io/@theleah"><img src="https://img.shields.io/badge/Velog@theleah-11B48A?logoColor=white"/></a>
     <h1>💻&nbsp;Toy Projects</h1>
     <a href="https://leahgo.github.io/CovidDashboard-react" title="CovidDashboard-react">Covid-19 Dashboard(REACT ver.)</a>
   </span>

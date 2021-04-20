@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <h1>📚&nbsp;Tech Blog</h1>
     <a href="https://velog.io/@theleah"><img src="https://img.shields.io/badge/Velog@theleah-11B48A?logoColor=white"/></a>
     <h1>💻&nbsp;Toy Projects</h1>
-    <a href="https://leahgo.github.io/CovidDashboard-react" title="CovidDashboard-react">Covid-19 Dashboard(REACT ver.)</a>
+    <a href="https://leahgo.github.io/CovidDashboard-react" title="CovidDashboard-react"><img src="https://img.shields.io/badge/Covid_DashBoard_(React)-51C4D3?logo=React&labelColor=gray"/></a>
   </span>
 </div>
 
